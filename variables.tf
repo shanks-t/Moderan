@@ -1,7 +1,7 @@
 variable "naming_prefix" {
   type        = string
   description = "Naming prefix for resources"
-  default     = "Moderan_App"
+  default     = "Moderan-App"
 }
 
 variable "aws_region" {
